@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:goodsec2/components/routs.dart';
+
 import 'package:goodsec2/components/theme.dart';
+import 'package:goodsec2/routs.dart';
 import 'package:goodsec2/screens/mainScreen.dart';
 
 void main() {
